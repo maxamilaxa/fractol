@@ -60,3 +60,4 @@ void fract_event_hook(t_data *data)
 	mlx_hook(W_PTR, 2, 0, fract_press, (void *)data);		/// for press button
 	mlx_hook(W_PTR, 4, 0, fract_mouse_press, (void *)data);		/// for wheel mouse
 }
+kjdshfksdgfg
